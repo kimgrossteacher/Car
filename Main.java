@@ -1,5 +1,6 @@
 package Car;
-
+// writen by Sage
+//for Mr Gross SD1 class, learning about objects and classes in Java
 public class Main {
     public static void main(String[] args) {
         // Instantiate 3 objects
